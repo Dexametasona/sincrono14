@@ -1,0 +1,12 @@
+:host{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 25vh;
+    background: linear-gradient(
+        rgba(0,0,0, 0.3),
+        rgba(0,0,0, 0.3)
+    ),
+    url('https://www.teahub.io/photos/full/237-2376520_twitter-header-wallpapers-minimalist-dual-monitor-wallpaper-4k.jpg');
+}
